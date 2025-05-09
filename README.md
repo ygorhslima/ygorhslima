@@ -1,7 +1,6 @@
 ### 👋 Hello! I'm Ygor Henrique
 
-I'm a passionate student of technology, currently pursuing a technical degree in Systems Development. I'm always looking to improve my programming skills and deepen my knowledge in the tech world.
-
+I am a student passionate about technology and I am currently studying Systems Development. I am always looking to improve my programming skills and deepen my knowledge in the world of technology.
 ---
 
 ## 💻 Technologies I'm Studying
