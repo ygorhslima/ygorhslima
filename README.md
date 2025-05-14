@@ -38,25 +38,4 @@ Minha experiência abrange os seguintes sistemas operacionais:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorhslima&layout=compact&theme=transparent" alt="Linguagens Mais Usadas de Ygor"/>
 </div>
 
----
 
-## 🌱 Próximos Passos e Interesses
-
-Atualmente, estou explorando novas áreas e tecnologias como:
-
-* [Adicione aqui alguma tecnologia ou área que você está começando a estudar, ex: Banco de Dados, Desenvolvimento Mobile, etc.]
-* [Outro interesse ou tecnologia, ex: Cloud Computing, Inteligência Artificial (nível básico), etc.]
-
-Estou sempre aberto a novas oportunidades de aprendizado e colaboração em projetos interessantes.
-
----
-
-## 🤝 Conecte-se comigo
-
-Você pode me encontrar em:
-
-* [Adicione o link do seu LinkedIn aqui]
-* [Adicione o link do seu Twitter aqui (opcional)]
-* [Adicione o link de qualquer outra plataforma que você utilize profissionalmente]
-
-Sinta-se à vontade para entrar em contato!
