@@ -34,7 +34,7 @@ Minha experiência abrange os seguintes sistemas operacionais:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ygorhslima&show_icons=true&theme=transparent" alt="Estatísticas do GitHub de Ygor"/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ygorhslima)](https://github.com/ygorhslima/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorhslima&layout=compact&theme=black" alt="Linguagens Mais Usadas de Ygor"/>
 </div>
 
 
