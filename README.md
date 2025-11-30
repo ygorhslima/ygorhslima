@@ -32,7 +32,7 @@ Minha experiência abrange os seguintes sistemas operacionais:
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ygorhslima&show_icons=true&theme=transparent" alt="Estatísticas do GitHub de Ygor"/>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorhslima&layout=compact&theme=black" alt="Linguagens Mais Usadas de Ygor"/>
 </div>
 
