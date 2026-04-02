@@ -1,12 +1,12 @@
-### Olá! 👋 Sou Ygor Henrique
+### Hello! 👋 i'm Ygor Henrique
 
-Um estudante apaixonado por tecnologia, atualmente aprofundando meus conhecimentos em **Desenvolvimento de Sistemas**. Estou sempre em busca de aprimorar minhas habilidades de programação e explorar as últimas tendências do mundo da tecnologia.
+A student passionate about technology, currently deepening my knowledge in Systems Development. I am always looking to improve my programming skills and explore the latest trends in the tech world.
 
 ---
 
 ## 🛠️ Tecnologias em Estudo
 
-Atualmente, estou focado em aprender e desenvolver projetos com as seguintes tecnologias:
+Currently, I am focused on learning and developing projects using the following technologies:
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -16,15 +16,7 @@ Atualmente, estou focado em aprender e desenvolver projetos com as seguintes tec
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </div>
 
 ---
-
-## ⚙️ Sistemas Operacionais
-
-Minha experiência abrange os seguintes sistemas operacionais:
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-</div>
