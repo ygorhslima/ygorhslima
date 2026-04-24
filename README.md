@@ -1,12 +1,12 @@
-### Hello! 👋 i'm Ygor Henrique
+### Olá! 👋 Sou Ygor Henrique
 
-A student passionate about technology, currently deepening my knowledge in Systems Development. I am always looking to improve my programming skills and explore the latest trends in the tech world.
+Um estudante apaixonado por tecnologia, atualmente aprofundando meus conhecimentos em Desenvolvimento de Sistemas. Estou sempre buscando aprimorar minhas habilidades de programação e explorar as últimas tendências do mundo da tecnologia.
 
 ---
 
 ## 🛠️ Tecnologias em Estudo
 
-Currently, I am focused on learning and developing projects using the following technologies:
+Atualmente, estou focado em aprender e desenvolver projetos utilizando as seguintes tecnologias:
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
