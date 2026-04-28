@@ -1,6 +1,6 @@
 ### Olá! 👋 Sou Ygor Henrique
 
-Sou um dev apaixonado por tecnologia, sempre aprofundando meus conhecimentos em Desenvolvimento de Sistemas voltado a criação de sites na parte frontend. Estou sempre buscando aprimorar minhas habilidades de programação e explorar as últimas tendências do mundo da tecnologia. Tenho foco em transformar lógica e design em interfaces de alta performance. Aplico meus estudos diariamente em projetos práticos que simulam desafios do mercado, sempre com o propósito de resolver problemas de negócio e entregar valor através da tecnologia.
+Sou um Dev apaixonado por tecnologia, sempre aprofundando meus conhecimentos em criação de sites na parte frontend. busco me aprimorar na programação e procuro explorar as últimas tendências do mundo da tecnologia. Tenho foco em transformar lógica e design em interfaces de alta performance. Aplico meus estudos diariamente em projetos práticos que simulam desafios do mercado, sempre com o propósito de resolver problemas de negócio e entregar valor através da tecnologia.
 
 ---
 
